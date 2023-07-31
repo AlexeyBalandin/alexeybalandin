@@ -13,7 +13,7 @@ I am an enthusiastic frontend developer with experience in web technologies. I h
   As a frontend developer, I find fulfillment in crafting intuitive and visually appealing user interfaces that positively impact end-users. I am eager to tackle new challenges and contribute to creating remarkable digital experiences.
 
 * 🌍  I'm based in Moldova
-* 🖥️  See my resume at [My Alexey_CV](http://alexeybalandin.github.io/Alexey_CV/)
+* 🖥️  See my resume at [Alexey_CV](http://alexeybalandin.github.io/Alexey_CV/)
 * ✉️  You can contact me at [aalexeybalandin@gmail.com](mailto:aalexeybalandin@gmail.com)
 * 🧠  I'm learning React and Angular
 
@@ -41,10 +41,29 @@ I am an enthusiastic frontend developer with experience in web technologies. I h
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
 
+<div style="display: flex; justify-content: center;">
+  <ul>
+    <li>HTML5 (BEM)</li>
+    <li>CSS3</li>
+    <li>Sass / SCSS</li>
+    <li>Flexbox / Grid</li>
+    <li>Bootstrap</li>
+    <li>JavaScript</li>
+  </ul>
+  <ul>
+    <li>jQuery Libraries</li>
+    <li>npm / Yarn</li>
+    <li>Gulp / Webpack</li>
+    <li>Figma / Photoshop / PDF</li>
+    <li>Responsive Web Design</li>
+    <li>SEO / PageSpeed</li>
+  </ul>
+</div>
+
 --------------
 ### Socials:
 
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100002187675028" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/AlexeyBalandin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/balandinalexeyy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexey-balandin-443929251/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p style="display: flex; justify-content: center; gap: 15px;"> <a href="https://www.facebook.com/profile.php?id=100002187675028" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/AlexeyBalandin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/balandinalexeyy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexey-balandin-443929251/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 -------------
 
