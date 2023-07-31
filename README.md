@@ -41,7 +41,6 @@ I am an enthusiastic frontend developer with experience in web technologies. I h
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
 
-<div style="display: flex; justify-content: center;">
   <ul>
     <li>HTML5 (BEM)</li>
     <li>CSS3</li>
@@ -49,8 +48,6 @@ I am an enthusiastic frontend developer with experience in web technologies. I h
     <li>Flexbox / Grid</li>
     <li>Bootstrap</li>
     <li>JavaScript</li>
-  </ul>
-  <ul>
     <li>jQuery Libraries</li>
     <li>npm / Yarn</li>
     <li>Gulp / Webpack</li>
@@ -58,7 +55,6 @@ I am an enthusiastic frontend developer with experience in web technologies. I h
     <li>Responsive Web Design</li>
     <li>SEO / PageSpeed</li>
   </ul>
-</div>
 
 --------------
 ### Socials:
